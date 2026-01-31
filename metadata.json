@@ -1,0 +1,8 @@
+{
+  "name": "Família Unida",
+  "description": "Um aplicativo de devocionais, oração e comunhão para a Igreja Família Unida, com Bíblia, planos de leitura e recursos multimídia.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
